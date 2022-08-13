@@ -1,11 +1,11 @@
-import logo from './logo.png'
+import logo from '../../assets/logo/logo.png'
 import { Link } from 'react-router-dom'
 const Header = () => {
     return (
 
         <div className='bg-image bg-no-repeat mx-36 h-96 bg-cover bg-center'>
             <div className='flex justify-between'>
-                <img src={logo} className='h-40 w-40 justify-left'></img>
+                <img src={logo} className='h-40 w-40 justify-left' alt='logo'/>
 
                 <ul className='flex justify-end space-x-16 mx-9 pt-14'>
                     <Link to='/'><li className='hover:bg-teal-900 hover:rounded-xl hover:text-white hover:px-2 hover:py-1'>Home</li></Link>

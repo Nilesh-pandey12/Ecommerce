@@ -1,7 +1,7 @@
-import iconArrow from './iconArrow.png'
-import ladyImage from './ladyImage.jpeg'
-import formalboy from './formalboy.jpeg'
-import casualboy from './casualboy.jpeg'
+import iconArrow from '../../assets/apparalls/iconArrow.png'
+import ladyImage from '../../assets/apparalls/ladyImage.jpeg'
+import formalboy from '../../assets/apparalls/formalboy.jpeg'
+import casualboy from '../../assets/apparalls/casualboy.jpeg'
 import {Link} from 'react-router-dom'
 const Body = () => {
     return (

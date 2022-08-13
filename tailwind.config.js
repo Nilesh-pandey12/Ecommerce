@@ -13,7 +13,7 @@ module.exports = {
     },
     extend: {
       backgroundImage: {
-        'image': "url('../src/Components/Header/clothes.jpeg')",
+        'image': "url('../src/assets/apparalls/clothes.jpeg')",
       },
     },
   },
