@@ -1,7 +1,7 @@
-import Fastrackwatch from '../../assets/clothings/Fastrackwatch.webp'
-import Menshirt from '../../assets/clothings/Menshirt.webp'
-import Menshoes from '../../assets/clothings/Menshoes.jpg'
-import Tshirt from '../../assets/clothings/Tshirt.jpg'
+import Fastrackwatch from '../../assets/apparalls/Fastrackwatch.webp'
+import Menshirt from '../../assets/apparalls/Menshirt.webp'
+import Menshoes from '../../assets/apparalls/Menshoes.jpg'
+import Tshirt from '../../assets/apparalls/Tshirt.jpg'
 import ItemComponent from './ItemComponent'
 import {Link} from 'react-router-dom'
 const Men = () =>{
