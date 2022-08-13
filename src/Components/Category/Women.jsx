@@ -1,8 +1,8 @@
-import Croptop from './Croptop.jpg'
-import Suit from './Suit.jpg'
-import Suit2 from './Suit2.jpg'
-import Womenjeans from './Womenjeans.jpg'
-import WomenShoes from './WomenShoes.jpg'
+import Croptop from '../../assets/clothings/Croptop.jpg'
+import Suit from '../../assets/clothings/Suit.jpg'
+import Suit2 from '../../assets/clothings/Suit2.jpg'
+import Womenjeans from '../../assets/clothings/Womenjeans.jpg'
+import WomenShoes from '../../assets/clothings/WomenShoes.jpg'
 import ItemComponent from './ItemComponent'
 import {Link} from 'react-router-dom'
 
@@ -33,7 +33,7 @@ const Women =()=> {
             image: WomenShoes,
             price: 299
         }
-        
+
     ]
     let data = women.map((item) => {
         return <ItemComponent items={item} />

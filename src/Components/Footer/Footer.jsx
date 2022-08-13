@@ -1,6 +1,6 @@
-import fb from './fb.png'
-import insta from './insta.png'
-import twit from './twit.png'
+import fb from '../../assets/social-media/fb.png'
+import insta from '../../assets/social-media/insta.png'
+import twit from '../../assets/social-media/twit.png'
 const Footer =()=>{
     return (
         <div className='bg-black   mb-0 h-1/5 inset-x-0 bottom-0'>
@@ -9,8 +9,8 @@ const Footer =()=>{
             <hr></hr>
             <ul >
              <li className='hover:underline text-sm sm:text-base'><a href='#'>Category </a></li>
-             <li className='hover:underline text-sm sm:text-base'><a href='#'>Promo</a></li> 
-             <li className='hover:underline text-sm sm:text-base'><a href='#'>Men product</a></li>  
+             <li className='hover:underline text-sm sm:text-base'><a href='#'>Promo</a></li>
+             <li className='hover:underline text-sm sm:text-base'><a href='#'>Men product</a></li>
                 </ul></div>
             <div className='text-white'><p className="sm:font-bold">Contact Us</p>
             <hr></hr>
