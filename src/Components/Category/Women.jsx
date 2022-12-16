@@ -1,8 +1,8 @@
-import Croptop from './Croptop.jpg'
-import Suit from './Suit.jpg'
-import Suit2 from './Suit2.jpg'
-import Womenjeans from './Womenjeans.jpg'
-import WomenShoes from './WomenShoes.jpg'
+import Croptop from '../Assets/Croptop.jpg'
+import Suit from '../Assets/Suit.jpg'
+import Suit2 from '../Assets/Suit2.jpg'
+import Womenjeans from '../Assets/Womenjeans.jpg'
+import WomenShoes from '../Assets/WomenShoes.jpg'
 import ItemComponent from './ItemComponent'
 import {Link} from 'react-router-dom'
 

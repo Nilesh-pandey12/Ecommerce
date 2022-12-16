@@ -1,6 +1,6 @@
-import fb from './fb.png'
-import insta from './insta.png'
-import twit from './twit.png'
+import fb from '../Assets/fb.png'
+import insta from '../Assets/insta.png'
+import twit from '../Assets/twit.png'
 const Footer =()=>{
     return (
         <div className='bg-black   mb-0 h-1/5 inset-x-0 bottom-0'>

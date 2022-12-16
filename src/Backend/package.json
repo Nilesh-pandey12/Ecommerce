@@ -1,0 +1,18 @@
+{
+  "name": "ecommerce-backend",
+  "version": "1.0.0",
+  "description": "to make the app dynamic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^6.8.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}

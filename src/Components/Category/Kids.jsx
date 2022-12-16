@@ -1,11 +1,11 @@
 import { Link } from 'react-router-dom'
-import Kfrok from './Kidsimage/Kfrok.jpg'
-import Kjeans from './Kidsimage/Kjeans.jpg'
-import Kjeans2 from './Kidsimage/Kjeans2.jpg'
-import Kshoes from './Kidsimage/Kshoes.jpg'
-import Ksuit from './Kidsimage/Ksuit.jpg'
-import Ktshirt from './Kidsimage/Ktshirt.jpg'
-import Ktshirt2 from './Kidsimage/Ktshirt2.jpg'
+import Kfrok from '../Assets/Kidsimage/Kfrok.jpg'
+import Kjeans from '../Assets/Kidsimage/Kjeans.jpg'
+import Kjeans2 from '../Assets/Kidsimage/Kjeans2.jpg'
+import Kshoes from '../Assets/Kidsimage/Kshoes.jpg'
+import Ksuit from '../Assets/Kidsimage/Ksuit.jpg'
+import Ktshirt from '../Assets/Kidsimage/Ktshirt.jpg'
+import Ktshirt2 from '../Assets/Kidsimage/Ktshirt2.jpg'
 import ItemComponent from './ItemComponent'
 const Kids = () =>{
     const kids=[
